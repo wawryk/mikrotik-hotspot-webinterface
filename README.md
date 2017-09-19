@@ -17,7 +17,9 @@ Authors
 -------
 
 * Johannes Graf ([@grafjo](https://github.com/grafjo))
+
 Modifications:
+
 * Maciej Wawryk ([@wawryk](https://github.com/wawryk))
 
 
